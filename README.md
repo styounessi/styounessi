@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steve Younessi
-- 👀 I’m interested in Data Visualization/Data Science, Macroeconomics, APIs, Web/Mobile Applications, and all things Tech
+- 👀 I’m interested in Data (and everything that comes with it), Macroeconomics, APIs, Web/Mobile Apps, and all things Tech
 - 🌱 I’m currently learning Python, SQL, HTML/CSS/JavaScript + Anything else that's exciting and has a robust community
 - 💞️ Sharing and saving things I've worked on, for my own benefit and to hopefully help others
 - 📫 Other sites I'm on:
