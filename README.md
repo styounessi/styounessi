@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steve Younessi
 - 👀 Interested in Data, Macroeconomics, and all things Tech
 - 🌱 Currently using Python, SQL, & HTML/CSS/JavaScript
-- 💞️ Sharing and saving things I've worked on, both for my own benefit and hopefully to help others
+- 💞️ Sharing and saving things I've worked on. Both for my own benefit and hopefully to help others
 - 📫 Other sites I'm on:
   - [Medium](https://marginalruminations.medium.com/)
   - [LinkedIn](https://www.linkedin.com/in/steve-younessi-008a62209/) 
