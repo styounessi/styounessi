@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve Younessi
 - 👀 Interested in Data, Macroeconomics, and all things Tech
-- 💞️ Archiving things I've worked on with the hope that it could help others as well
+- 💞️ Archiving random things I've worked on in case it helps anyone else
 - 📫 Other sites I'm on:
   - [Medium](https://marginalruminations.medium.com/)
   - [LinkedIn](https://www.linkedin.com/in/steve-younessi-008a62209/) 
