@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Steve Younessi
-- 👀 Interested in Data, Macroeconomics, and all things Tech
-- 💞️ Archiving random things I've worked on in case it helps anyone else
-- 📫 Other sites I'm on:
-  - [Medium](https://marginalruminations.medium.com/)
-  - [LinkedIn](https://www.linkedin.com/in/steve-younessi-008a62209/) 
+# Hi, I’m [Steve Younessi](https://github.com/styounessi/) 👋
 
-<!---
-styounessi/styounessi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 I am an enthusiast of:
+- 💾 Data
+- 📈 Macroeconomics
+- 💻 Tech
+
+### 💞️ Archiving random things I've worked on for fun in case it helps anyone else
+### 🤝 Always happy to share, collaborate, teach, and learn on my continuous journey
