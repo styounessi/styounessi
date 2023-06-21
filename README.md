@@ -5,4 +5,4 @@
 - 💻 Tech
 
 ### 💞️ Archiving random things I've worked on for fun in case it helps anyone else
-### 🤝 Always happy to share, collaborate, teach, and learn on my continuous journey
+### 🤝 Always happy to share and collaborate 
