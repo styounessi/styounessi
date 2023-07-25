@@ -1,8 +1,6 @@
-# Hi, I’m [Steve Younessi](https://github.com/styounessi/) 👋
+# Hi 👋, I’m Steve
 ### 👀 I am an enthusiast of:
 - 💾 Data
 - 📈 Macroeconomics
-- 💻 Tech
-
-### 💞️ Archiving random things I've worked on for fun in case it helps anyone else
-### 🤝 Always happy to share and collaborate 
+### 💞️ Archiving random ideas I've worked on for fun in case it helps anyone else
+### 🤝 Always happy to share and collaborate
