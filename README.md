@@ -3,6 +3,6 @@
 - 💾 Data
 - 📊 Analytics
 - 📈 Macroeconomics
-- 🛠️ Automation & Software Engineering
+- 🛠️ Automation & Software Development
 ### 💞️ Archiving random ideas I've worked on for fun in case it helps anyone else
 ### 🤝 Always happy to share and collaborate
