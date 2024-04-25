@@ -1,4 +1,4 @@
-# Hi, I'm Steve 👋
+# Hi, I'm Steve <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="55px"> 
 
 ### 👀 I am an enthusiast of:
 - 💾 Data
